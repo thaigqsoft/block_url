@@ -25,3 +25,9 @@
 127.0.0.1 disqus.com
 127.0.0.1 links.services.disqus.com
 127.0.0.1 server.vipxxx.top
+127.0.0.1 www.mripetctsource.com 
+127.0.0.1 mripetctsource.com
+127.0.0.1 flowerpowerpackages.com
+127.0.0.1 bendery-ga.org
+127.0.0.1 kaloom.com
+127.0.0.1 www.kaloom.com
