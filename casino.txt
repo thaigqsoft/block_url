@@ -24,3 +24,4 @@
 127.0.0.1 service.adsok.co
 127.0.0.1 disqus.com
 127.0.0.1 links.services.disqus.com
+127.0.0.1 server.vipxxx.top
